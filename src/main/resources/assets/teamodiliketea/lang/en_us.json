@@ -1,0 +1,13 @@
+{
+  "itemGroup.teamodiliketea": "Example Mod Tab",
+  "block.teamodiliketea.example_block": "Example Block",
+  "item.teamodiliketea.example_item": "Example Item",
+
+  "teamodiliketea.configuration.title": "Tea-mod Configs",
+  "teamodiliketea.configuration.section.teamodiliketea.common.toml": "Tea-mod Configs",
+  "teamodiliketea.configuration.section.teamodiliketea.common.toml.title": "Tea-mod Configs",
+  "teamodiliketea.configuration.items": "Item List",
+  "teamodiliketea.configuration.logDirtBlock": "Log Dirt Block",
+  "teamodiliketea.configuration.magicNumberIntroduction": "Magic Number Text",
+  "teamodiliketea.configuration.magicNumber": "Magic Number"
+}
